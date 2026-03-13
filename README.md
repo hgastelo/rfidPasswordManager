@@ -2,16 +2,16 @@
 I am very new to most stuff in coding so this is a very simple program and has no real practical application except for being off the internet no matter what.
 
 The materials needed are:
-Raspberry pi (any model that matches with the gpio pins of the pi 4)
-RC522 RFID reader
+Raspberry pi (any model that matches with the gpio pins of the pi 4),
+RC522 RFID reader,
 A screen of some kind
 
 Relevent libraries:
-MFRC522 https://github.com/pimylifeup/MFRC522-python
-tkinter
-subprocces
-time
-sys
+MFRC522 https://github.com/pimylifeup/MFRC522-python ,
+tkinter,
+subprocces,
+time,
+sys,
 RPi.GPIO
 
 fullGUI.py is the base I used in order to make the program, it is very simple an works fine.
